@@ -1,0 +1,7 @@
+#include<stdio.h>	
+unsigned int var=10;
+
+
+int main(){
+	printf("var=%d",var);
+}
